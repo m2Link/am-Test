@@ -33,6 +33,10 @@
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "value": ""
         },
+        "LOG_CHANNEL": {
+            "description": "log channel,.",
+            "value": ""
+       },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "value": ""
